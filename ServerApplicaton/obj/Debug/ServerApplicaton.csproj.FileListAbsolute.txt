@@ -1,0 +1,18 @@
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\bin\Debug\ServerApplicaton.exe.config
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\bin\Debug\ServerApplicaton.exe
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\bin\Debug\ServerApplicaton.pdb
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\obj\Debug\ServerApplicaton.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\obj\Debug\ServerApplicaton.exe
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\obj\Debug\ServerApplicaton.pdb
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\bin\Debug\KaymakGames.dll
+C:\Users\Kevin\Desktop\Youtube Series\2D MMORPG\Client\MMORPGClient\ServerApplicaton\bin\Debug\KaymakGames.pdb
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\bin\Debug\ServerApplicaton.exe.config
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\obj\Debug\ServerApplicaton.exe
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\obj\Debug\ServerApplicaton.pdb
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\bin\Debug\ServerApplicaton.exe
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\bin\Debug\ServerApplicaton.pdb
+C:\Users\Kevin\Desktop\Youtube Source\ServerApplicaton\obj\Debug\ServerApplicaton.csprojResolveAssemblyReference.cache
+C:\Users\George\Downloads\ServerApplicaton\obj\Debug\ServerApplicaton.csprojResolveAssemblyReference.cache
+C:\Users\George\Downloads\ServerApplicaton\obj\Debug\ServerApplicaton.csproj.CoreCompileInputs.cache
+C:\Users\George\Downloads\ServerApplicaton\obj\Debug\ServerApplicaton.exe
+C:\Users\George\Downloads\ServerApplicaton\obj\Debug\ServerApplicaton.pdb
